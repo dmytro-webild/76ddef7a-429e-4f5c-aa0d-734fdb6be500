@@ -67,7 +67,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/dancing-team-studio_1303-10934.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/dancing-team-studio_1303-10934.jpg?_wi=1"
       showBlur={true}
       avatars={[
         {
@@ -142,7 +142,7 @@ export default function LandingPage() {
           content: "Peças exclusivas que acabaram de chegar.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/still-life-spring-wardrobe-switch_23-2150478959.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/still-life-spring-wardrobe-switch_23-2150478959.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -158,7 +158,7 @@ export default function LandingPage() {
           id: "p1",
           name: "Conjunto Primavera",
           price: "R$ 89,90",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-modern-female-grey-coat_613910-7078.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-modern-female-grey-coat_613910-7078.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -253,7 +253,7 @@ export default function LandingPage() {
           quote: "Os tecidos são incríveis e a entrega foi super rápida.",
           tag: "Cliente fiel",
           avatarSrc: "http://img.b2bpic.net/free-photo/sister-together-paperbag-human-bags_1301-1578.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/dancing-team-studio_1303-10934.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/dancing-team-studio_1303-10934.jpg?_wi=2",
           imageAlt: "happy mother portrait children boutique client",
         },
         {
@@ -264,7 +264,7 @@ export default function LandingPage() {
           quote: "Fui muito bem atendida via WhatsApp, nota 10!",
           tag: "Recomendado",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-women-chooses-wear-clothes-shop-focus-woman_1398-1523.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-spring-wardrobe-switch_23-2150478959.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-spring-wardrobe-switch_23-2150478959.jpg?_wi=2",
           imageAlt: "happy mother portrait children boutique client",
         },
         {
@@ -297,7 +297,7 @@ export default function LandingPage() {
           quote: "Muito satisfeita com o atendimento e o produto.",
           tag: "Mamãe contente",
           avatarSrc: "http://img.b2bpic.net/free-photo/mother-with-her-little-cute-daughter-with-shopping-bags_1303-18576.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-modern-female-grey-coat_613910-7078.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-modern-female-grey-coat_613910-7078.jpg?_wi=2",
           imageAlt: "happy mother portrait children boutique client",
         },
       ]}
